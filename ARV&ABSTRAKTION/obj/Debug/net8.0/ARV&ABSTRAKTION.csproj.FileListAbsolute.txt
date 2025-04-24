@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\ARV&ABSTRAKTION\ARV&ABSTRAKTION\bin\Debug\net8.0\ARV&ABSTRAKTION.exe
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\ARV&ABSTRAKTION\ARV&ABSTRAKTION\bin\Debug\net8.0\ARV&ABSTRAKTION.deps.json
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\ARV&ABSTRAKTION\ARV&ABSTRAKTION\bin\Debug\net8.0\ARV&ABSTRAKTION.runtimeconfig.json
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\ARV&ABSTRAKTION\ARV&ABSTRAKTION\bin\Debug\net8.0\ARV&ABSTRAKTION.dll
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\ARV&ABSTRAKTION\ARV&ABSTRAKTION\bin\Debug\net8.0\ARV&ABSTRAKTION.pdb
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\ARV&ABSTRAKTION\ARV&ABSTRAKTION\obj\Debug\net8.0\ARV&ABSTRAKTION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\ARV&ABSTRAKTION\ARV&ABSTRAKTION\obj\Debug\net8.0\ARV&ABSTRAKTION.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\ARV&ABSTRAKTION\ARV&ABSTRAKTION\obj\Debug\net8.0\ARV&ABSTRAKTION.AssemblyInfo.cs
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\ARV&ABSTRAKTION\ARV&ABSTRAKTION\obj\Debug\net8.0\ARV&ABSTRAKTION.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\ARV&ABSTRAKTION\ARV&ABSTRAKTION\obj\Debug\net8.0\ARV&ABSTRAKTION.sourcelink.json
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\ARV&ABSTRAKTION\ARV&ABSTRAKTION\obj\Debug\net8.0\ARV&ABSTRAKTION.dll
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\ARV&ABSTRAKTION\ARV&ABSTRAKTION\obj\Debug\net8.0\refint\ARV&ABSTRAKTION.dll
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\ARV&ABSTRAKTION\ARV&ABSTRAKTION\obj\Debug\net8.0\ARV&ABSTRAKTION.pdb
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\ARV&ABSTRAKTION\ARV&ABSTRAKTION\obj\Debug\net8.0\ARV&ABSTRAKTION.genruntimeconfig.cache
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\ARV&ABSTRAKTION\ARV&ABSTRAKTION\obj\Debug\net8.0\ref\ARV&ABSTRAKTION.dll

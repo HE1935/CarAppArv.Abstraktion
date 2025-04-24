@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ARV&ABSTRAKTION/1.0.0": {
+        "runtime": {
+          "ARV&ABSTRAKTION.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ARV&ABSTRAKTION/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
